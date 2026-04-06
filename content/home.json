@@ -6,17 +6,16 @@
     "language": "sv",
     "primaryColor": "#fecc29",
     "secondaryColor": "#e8e8e8",
-    "theme": "classic",
-    "themeMode": "light"
+    "theme": "showcase",
+    "themeMode": "dark"
   },
   "seo": {
-    "title": "EZY Gaming | Trygg och inkluderande gaminggemenskap i Sverige",
-    "description": "EZY Gaming samlar spelintresserade i Sverige för LAN, gaming-evenemang, turneringar och social gemenskap med fokus på fair play, laganda och spelglädje.",
+    "title": "EZY Gaming | Gemenskap, LAN och gaming-evenemang i Sverige",
+    "description": "EZY Gaming samlar spelintresserade i en trygg och inkluderande miljö med LAN, gaming-evenemang, turneringar och social gemenskap för nya och erfarna spelare.",
     "keywords": [
       "EZY Gaming",
-      "gamingförening",
+      "gaming",
       "LAN",
-      "gaming-evenemang",
       "turneringar",
       "CS2",
       "Dota",
@@ -26,39 +25,39 @@
     ]
   },
   "hero": {
-    "eyebrow": "Gaming, gemenskap och spelglädje",
-    "headline": "En trygg plats för spelare att mötas, spela och utvecklas tillsammans",
-    "subheadline": "EZY Gaming skapar en inkluderande miljö där nya och erfarna spelare möts på lika villkor genom LAN, turneringar och sociala gaming-aktiviteter.",
+    "eyebrow": "Gaming och gemenskap",
+    "headline": "En trygg mötesplats för spelglädje och laganda",
+    "subheadline": "EZY Gaming samlar spelintresserade i Sverige för LAN, turneringar och sociala gaming-evenemang där gemenskap, fair play och inkludering står i centrum.",
     "primaryCtaLabel": "Kontakta oss",
     "primaryCtaHref": "#kontakt"
   },
   "intro": {
-    "heading": "Om vår verksamhet",
-    "body": "Föreningens verksamhet syftar till att samla spelintresserade i en trygg och inkluderande miljö där fokus ligger på gemenskap, samarbete och spelglädje. Vi arrangerar regelbundna träffar i form av LAN och gaming-evenemang där medlemmar samlas för att spela dator- och tv-spel tillsammans. Under träffarna finns möjlighet att spela för nöjes skull eller delta i organiserade tävlingar inom olika datorspel. Vi uppmuntrar fair play, laganda och respekt mellan deltagare, oavsett erfarenhetsnivå. Genom turneringar, gemensamt spelande och sociala aktiviteter skapar vi en positiv mötesplats där intresset för gaming står i centrum."
+    "heading": "Gaming för alla nivåer",
+    "body": "Vår verksamhet bygger på att skapa en positiv och välkomnande miljö där medlemmar kan spela tillsammans, utvecklas och ha roligt. Vi ordnar regelbundna träffar med fokus på dator- och tv-spel, organiserade tävlingar och social samvaro. Oavsett om du är ny i gaming eller har lång erfarenhet är du välkommen att delta på lika villkor."
   },
   "services": {
-    "heading": "Våra aktiviteter",
+    "heading": "Vad vi erbjuder",
     "items": [
       {
         "title": "CS2",
-        "description": "Spela Counter-Strike 2 i organiserade matcher, träningar och turneringar för både nybörjare och erfarna spelare."
+        "description": "Spelträffar och tävlingsmoment för medlemmar som vill spela Counter-Strike 2 tillsammans i en social och inkluderande miljö."
       },
       {
         "title": "Dota",
-        "description": "Delta i Dota-spelkvällar och lagspel där samarbete, strategi och gemenskap står i fokus."
+        "description": "Gemensamt spelande och organiserade matcher för dig som gillar strategiskt lagspel och samarbete."
       },
       {
         "title": "WC3",
-        "description": "Upplev klassiskt Warcraft 3-spelande med gemensamma sessions och vänskapliga tävlingar."
+        "description": "Träffar och turneringsinslag för spelare som vill uppleva klassiskt strategispel med fokus på fair play och spelglädje."
       }
     ]
   },
   "about": {
-    "heading": "Varför välja EZY Gaming",
-    "body": "EZY Gaming arbetar för att främja digital kompetens, social samvaro och ett ansvarsfullt spelande. Vi vill vara en mötesplats där spelglädje, trygghet och respekt går hand i hand. Hos oss är alla välkomna, oavsett tidigare erfarenhet, och vi lägger stor vikt vid att skapa en miljö där deltagare kan utvecklas, ha roligt och knyta nya kontakter."
+    "heading": "Om EZY Gaming",
+    "body": "EZY Gaming är en föreningsverksamhet som samlar spelintresserade kring LAN, gaming-evenemang och gemensamma spelupplevelser. Vi vill främja digital kompetens, social samvaro och ett ansvarsfullt spelande. Genom att skapa en trygg och inkluderande mötesplats ger vi medlemmar möjlighet att utvecklas, bygga relationer och dela intresset för gaming."
   },
   "usp": {
-    "heading": "Det här kännetecknar oss",
+    "heading": "Varför välja oss",
     "items": [
       "Gemenskap",
       "Inkluderande",
@@ -66,16 +65,16 @@
     ]
   },
   "testimonials": {
-    "heading": "Vad deltagare uppskattar",
+    "heading": "Det medlemmar uppskattar",
     "enabled": true,
     "items": [
       {
         "name": "Medlem",
-        "quote": "En välkomnande förening där alla kan vara med och känna sig inkluderade."
+        "quote": "En trygg och rolig plats där man alltid känner sig välkommen och får spela tillsammans med andra."
       },
       {
         "name": "Deltagare",
-        "quote": "Roliga träffar med bra stämning, spännande matcher och mycket gemenskap."
+        "quote": "Bra mix av gemenskap, tävling och avslappnat spelande för både nya och erfarna spelare."
       }
     ]
   },
@@ -85,29 +84,29 @@
     "items": [
       {
         "question": "Vem kan vara med i EZY Gaming?",
-        "answer": "Alla som är intresserade av gaming och vill delta i en trygg och respektfull gemenskap är välkomna."
+        "answer": "Alla spelintresserade som vill delta i en trygg, inkluderande och social miljö är välkomna."
       },
       {
-        "question": "Måste man vara erfaren spelare?",
-        "answer": "Nej, både nya och erfarna spelare deltar på lika villkor."
+        "question": "Vilka spel fokuserar ni på?",
+        "answer": "Vi arrangerar aktiviteter kring bland annat CS2, Dota och WC3."
       },
       {
-        "question": "Vilka typer av aktiviteter arrangerar ni?",
-        "answer": "Vi ordnar LAN, gaming-evenemang, turneringar och sociala spelträffar."
+        "question": "Arrangerar ni tävlingar?",
+        "answer": "Ja, vi kombinerar gemensamt spelande med organiserade turneringar och tävlingsmoment."
       }
     ]
   },
   "contact": {
     "heading": "Kontakta oss",
-    "body": "Vill du veta mer om vår verksamhet eller delta i kommande aktiviteter? Hör gärna av dig så berättar vi mer.",
+    "body": "Vill du veta mer om våra träffar, evenemang eller hur du blir en del av gemenskapen? Hör gärna av dig så berättar vi mer.",
     "email": "nicklindstrom1337@gmail.com",
     "phone": "010-000000",
-    "address": "Sverige"
+    "address": "Storagatan, 85591, Sverige"
   },
   "footer": {
     "companyName": "EZY Gaming",
-    "tagline": "Gemenskap, inkludering och spelglädje",
-    "copyright": "© 2026 EZY Gaming. Alla rättigheter förbehållna.",
+    "tagline": "Gemenskap, spelglädje och fair play",
+    "copyright": "© 2026 EZY Gaming",
     "socialLinks": {
       "facebook": "https://www.facebook.com/groups/1993813111551933"
     }
@@ -116,29 +115,29 @@
     "logoUrl": "assets/generated/ezy-gaming-logo.png",
     "heroImage": {
       "url": "assets/generated/ezy-gaming-user-1.png",
-      "alt": "EZY Gaming samlar spelare i en modern och stämningsfull gamingmiljö"
+      "alt": "Gaminginspirerad hero-bild för EZY Gaming"
     },
     "aboutImage": {
       "url": "assets/generated/ezy-gaming-user-2.png",
-      "alt": "Medlemmar i EZY Gaming deltar i en social och inkluderande spelträff"
+      "alt": "Bild som visar gemenskap och gaming hos EZY Gaming"
     },
-    "galleryHeading": "Inblick i verksamheten",
+    "galleryHeading": "",
     "gallery": [
       {
         "url": "assets/generated/ezy-gaming-user-1.png",
-        "alt": "EZY Gaming bild 1"
+        "alt": ""
       },
       {
         "url": "assets/generated/ezy-gaming-user-2.png",
-        "alt": "EZY Gaming bild 2"
+        "alt": ""
       },
       {
         "url": "assets/generated/ezy-gaming-user-3.png",
-        "alt": "EZY Gaming bild 3"
+        "alt": ""
       },
       {
         "url": "assets/generated/ezy-gaming-user-4.png",
-        "alt": "EZY Gaming bild 4"
+        "alt": ""
       }
     ]
   }
